@@ -1,0 +1,11 @@
+{
+  "name": "Troisieme Nft  #2",
+  "description": "Troisieme NFT de Kun",
+  "attributes": [
+    {
+      "trait_type": "Techno",
+      "value": "React"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmcbBKesd1HEe6oofBGdxRCR1GKAEVmHTrUCx3w1R2fPXY/2.png"
+}

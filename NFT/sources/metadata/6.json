@@ -1,0 +1,11 @@
+{
+  "name": "Septieme Nft  #6",
+  "description": "Septieme NFT de Kun",
+  "attributes": [
+    {
+      "trait_type": "Techno",
+      "value": "React"
+    }
+  ],
+  "image": "https://gateway.pinata.cloud/ipfs/QmcbBKesd1HEe6oofBGdxRCR1GKAEVmHTrUCx3w1R2fPXY/6.png"
+}
